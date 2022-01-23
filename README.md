@@ -179,11 +179,3 @@
       </tbody>
     </table>
     <p>Copyright (c) 2021 IBM Corporation. All rights reserved.</p>
-    <script>window.addEventListener('load', function() {
-snFaculty.inject();
-});</script>
-    <script src="https://skills-network-assets.s3.us.cloud-object-storage.appdomain.cloud/scripts/inject.43989f87.js"></script>
-    <script src="https://unpkg.com/@highlightjs/cdn-assets@10.7.1/highlight.min.js"></script>
-    <script src="https://unpkg.com/highlightjs-badge@0.1.9/highlightjs-badge.min.js"></script>
-  </body>
-</html>
